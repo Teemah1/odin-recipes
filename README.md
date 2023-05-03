@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is about creating recipe webpages as part of the foundation course of The Odin Project.
