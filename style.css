@@ -1,5 +1,8 @@
+* {
+    box-sizing: border-box;
+}
 body {
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
 h1 {
@@ -7,12 +10,16 @@ h1 {
     font-weight: bolder;
     font-size: 40px;
     background-color: brown;;
-    font-family: Georgia, Times, 'Times New Roman', serif
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    padding: 8px;
 }
 
 img {
     width: 700px;
     height: auto;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 .description, h4 {
@@ -25,6 +32,9 @@ img {
 .para, li {
     text-align: justify;
     font-weight: 200;
+    line-height: normal;
+    margin: 20px;
+    list-style-type: circle;
 }
 
 h4 {
@@ -43,5 +53,5 @@ h4 {
 }
 
 #zobo {
-    background-color: red;
+    background-color: rgb(214, 52, 79);
 }
